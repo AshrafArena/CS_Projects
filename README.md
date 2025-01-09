@@ -1,7 +1,5 @@
 # C# Repo
 
-C# repository  
-
 I'll be adding all my C# work here as I explore and learn the language. If you have any interesting project ideas, feel free to suggest them!
 
 ## Projects
